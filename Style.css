@@ -1,0 +1,29 @@
+.container {
+  width: 300px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.input-wrapper {
+  margin-bottom: 10px;
+}
+
+input, button {
+  margin-top: 5px;
+}
+
+button {
+  background-color: rgb(0, 128, 21);
+  color: rgb(255, 255, 255);
+  border: none;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: rgb(0, 128, 21);
+}
+
+#result {
+  margin-top: 20px;
+}
